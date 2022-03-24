@@ -11,13 +11,13 @@ def others_markup(videoid, user_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="🔎 Search Lyrics",
+                text="🔎 Cari Lirik",
                 callback_data=f"lyrics {videoid}|{user_id}",
             )
         ],
         [
             InlineKeyboardButton(
-                text="✚ Your Playlist",
+                text="✚ Playlist Anda",
                 callback_data=f"your_playlist {videoid}|{user_id}",
             ),
             InlineKeyboardButton(
@@ -33,11 +33,11 @@ def others_markup(videoid, user_id):
         ],
         [
             InlineKeyboardButton(
-                text="⬅️ Go Back",
+                text="⬅️ Kembali",
                 callback_data=f"pr_go_back_timer {videoid}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="🗑 Close Menu",
+                text="🗑 Tutup menu",
                 callback_data=f"close",
             ),
         ],
@@ -59,7 +59,7 @@ def download_markup(videoid, user_id):
         ],
         [
             InlineKeyboardButton(
-                text="⬅️ Go Back", callback_data=f"goback {videoid}|{user_id}"
+                text="⬅️ Kembali", callback_data=f"goback {videoid}|{user_id}"
             ),
             InlineKeyboardButton(text="🗑 Close Menu", callback_data=f"close"),
         ],
