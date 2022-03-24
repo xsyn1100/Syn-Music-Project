@@ -14,7 +14,7 @@
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
 
 ## Deployment
-Read [Docs](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rizz990/https://heroku.com/deploy?template=https://github.com/Rizz990/YukkiMusicBot) for Detailed Description and Setup Guide on deploying Bot.
+Read [Docs](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yansensad/https:/LepinXYukki) for Detailed Description and Setup Guide on deploying Bot.
 
 > Click on buttons to expand!
 <details>
@@ -65,7 +65,7 @@ Read [Docs](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/dep
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
+shikhar@MacBook~ $ git clone https://github.com/Yansensad/LepinXYukki
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
