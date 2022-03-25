@@ -12,11 +12,11 @@ from Yukki.Utilities.ping import get_readable_time
 __MODULE__ = "Essentials"
 __HELP__ = """
 
-/ping - Check if Bot is alive or not.
+/mping - Check if Bot is alive or not.
 
-/start - Start the Bot.
+/mstart - Start the Bot.
 
-/help - Get Commands Helper Menu.
+/mhelp - Get Commands Helper Menu.
 
 /settings - Get Settings button.
 """
@@ -35,7 +35,7 @@ Disk: {disk}%"""
     return stats
 
 
-@app.on_message(filters.command(["ping", f"ping@{BOT_USERNAME}"]))
+@app.on_message(filters.command(["mping", f"ping@{BOT_USERNAME}"]))
 async def ping(_, message):
     start = datetime.now()
     response = await message.reply_photo(
