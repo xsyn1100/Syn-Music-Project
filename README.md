@@ -1,21 +1,11 @@
 <p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/master/Utils/icon.gif" alt="ICON" width="250" height="250"/></p>
 
-<h4 align="center">
-    A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls 
-</h4>
 <p align="center">
     <a href="https://t.me/YukkiRobot"> Ready-To-Use Bot </a> •
     <a href="https://notreallyshikhar.gitbook.io/yukkimusicbot/about/getting-started"> Documentation </a> •
     <a href="https://t.me/OfficialYukki"> Support Channel </a> •
     <a href="https://t.me/YukkiSupport"> Support Chat </a> 
 </p>
-    
-# Yukki Music Bot
-A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
-
-## Deployment
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Yansensad/LepinXYukki"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
-
 > Click on buttons to expand!
 <details>
 <summary><b>🔗 Requirements</b></summary>
@@ -47,14 +37,6 @@ A Powerful Telegram Music+Video Bot by which you can stream songs, videos and ev
 <details>
 <summary><b>🔗 Deploy to Heroku</b></summary>
 <br>
-
-> Heroku has two vars[ HEROKU_API_KEY & HEROKU_APP_NAME ] for Updater to work. 
-> By setting those two vars you can get logs of your heroku app, set var, edit var, delete vars , check dyno usage and update bot. 
-> Those two vars are not Mandatory! You can leave them blank too. 
-    
-<h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Yansensad/LepinXYukki"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>
-
 </details>
 
 <details>
